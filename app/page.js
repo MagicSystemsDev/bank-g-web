@@ -1,4 +1,4 @@
-const portfolioUrl = process.env.NEXT_PUBLIC_PORTFOLIO_URL || "https://pedronet1997.github.io/about-me/";
+const portfolioUrl = process.env.NEXT_PUBLIC_PORTFOLIO_URL || "https://pguale.github.io/about-me/";
 
 const moduleGroups = [
   ["Operación", "Clientes, cuentas, cajas y movimientos"],
